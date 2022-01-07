@@ -7,6 +7,8 @@
 - 💞️ I’m looking to collaborate on anything related to new advanements in the wonderful world of data science.
 - 📫 How to reach me DaLuSt1997@gmail.com or [LinkedIn](www.linkedin.com/in/daansteur)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daansteur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 <!---
 DaLuSt/DaLuSt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
