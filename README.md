@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 👋 Hi, I’m Daan Steur
+- 👋 my name is Daan Steur
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics for health sciences and Data Science for Life Sciences
 - 💞️ I’m looking to collaborate on anything related to new advanements in the wonderful world of data science.
