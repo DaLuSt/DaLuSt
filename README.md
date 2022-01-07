@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Analytics for health sciences and Data Science for Life Sciences
 - 💞️ I’m looking to collaborate on anything related to new advanements in the wonderful world of data science.
 - 📫 How to reach me DaLuSt1997@gmail.com or [LinkedIn](www.linkedin.com/in/daansteur)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?daansteur=anuraghazra)](https://github.com/daansteur/github-readme-stats)
 
 You can find and reach me on my email [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
@@ -19,6 +19,7 @@ You can find and reach me on my email [![Twitter][1.2]][1], or on [![LinkedIn][3
 
 [1]: https://twitter.com/DaanSteur
 [2]: https://www.linkedin.com/in/daansteur/
+
 
 <!---
 DaLuSt/DaLuSt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
