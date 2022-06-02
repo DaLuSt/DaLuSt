@@ -12,7 +12,6 @@
 - 👨‍💻 All of my projects are available at [Github profile](https://github.com/DaLuSt)
 
 - 📫 How to reach me at **DaLuSt1997@gmail.com** or [Linkedin](www.linkedin.com/in/daansteur)
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
