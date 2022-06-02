@@ -1,42 +1,18 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-- 👋 My name is Daan Steur
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently doing a masters in Data Science for Life Sciences.
-- 💞️ I’m looking to collaborate on anything related to new advancements in the wonderful world of data science.
-- 📫 How to reach me DaLuSt1997@gmail.com or [LinkedIn](http://www.linkedin.com/in/daansteur)
-
-
-
-[![DaLuSt github stats](https://github-readme-stats.vercel.app/api?username=dalust)](https://github.com/dalust)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalust&layout=compact)](https://github.com/dalust)
-
-
-<!---
-DaLuSt/DaLuSt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <h1 align="center">Hi 👋, I'm Daan Steur</h1>
-<h3 align="center">A MSc student in Data Science for life sciences</h3>
+<h2 align="center">MSc student in Data Science for life sciences</h2>
+<h3 align="center">"Live life the the fullest of your own potential kinetic energy"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalust&label=Profile%20views&color=0e75b6&style=flat" alt="dalust" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalust" alt="dalust" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/daansteur" target="blank"><img src="https://img.shields.io/twitter/follow/daansteur?logo=twitter&style=for-the-badge" alt="daansteur" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 👯 I’m looking to collaborate on **Data Science for Life Science projects** or **Any fun or intresting offer**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👨‍💻 All of my projects are available at [Github profile](https://github.com/DaLuSt)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DaLuSt](https://github.com/DaLuSt)
-
-- 📫 How to reach me **DaLuSt1997@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/daansteur](www.linkedin.com/in/daansteur)
+- 📫 How to reach me at **DaLuSt1997@gmail.com** or [Linkedin](www.linkedin.com/in/daansteur)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,3 +29,5 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalust&show_icons=true&locale=en" alt="dalust" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalust&" alt="dalust" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalust" alt="dalust" /></a> </p>
