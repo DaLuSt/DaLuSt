@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/daansteur" target="blank"><img src="https://img.shields.io/twitter/follow/daansteur?logo=twitter&style=for-the-badge" alt="daansteur" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Data Science for Life Science projects** or **Any fun or intresting offer**
+- 👯 I’m looking to collaborate on **Data Science for Life Science projects** or **Any fun and/or intresting offers**
 
 - 👨‍💻 All of my projects are available at [Github profile](https://github.com/DaLuSt)
 
