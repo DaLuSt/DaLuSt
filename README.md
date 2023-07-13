@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalust&label=Profile%20views&color=0e75b6&style=flat" alt="dalust" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/daansteur" target="blank"><img src="https://img.shields.io/twitter/follow/daansteur?logo=twitter&style=for-the-badge" alt="daansteur" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Data Science for Life Science projects** or **Any fun and/or intresting offers**
 
 - 👨‍💻 All of my projects are available at [Github profile](https://github.com/DaLuSt)
@@ -15,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/daansteur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daansteur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daansteur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daansteur" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17455518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17455518" height="30" width="40" /></a>
 </p>
