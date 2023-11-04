@@ -7,7 +7,7 @@
 
 - 🧑‍💻 **Data Scientist** looking to improve the world through **data driven solutions**.
 - 🧬 Well versed in **Biomedical**, **Biotechnological** and **Health** Sciences.
-- 👯 I’m looking to collaborate on **Data Science** projects in **Aerospace, Agro, Biomedical, Biotech, Ecology, Health, Meteorology** or **Anything fun and/or intresting**
+- 👯 I’m looking to collaborate on **Data Science** projects in **Aerospace, Agro, Automotive, Biomedical, Biotech, Ecology, Health, Meteorology** or **Anything fun and/or intresting**
 - 📫 You can reach me at **DaLuSt1997@gmail.com** or [Linkedin](https://www.linkedin.com/in/daansteur/)
 
 ## 🌐Socials
