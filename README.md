@@ -1,17 +1,35 @@
 [![](https://visitcount.itsvg.in/api?id=DaLuSt&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Daan Steur</h1>
-<h2 align="center">MSc Student in Data Science for Life Sciences</h2>
-<h3 align="center">"Live life to the fullest of your own potential kinetic energy"</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=560&lines=Data+Scientist+%7C+Data+Architect;MSc+in+Data+Science+for+Life+Sciences;Turning+chaos+into+structured+clarity;Living+at+maximum+potential+kinetic+energy" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🙋 About Me
 
 - 🧑‍💻 **Data Scientist** passionate about improving the world through **data-driven solutions**
+- 🏗️ **Data Architect** — turning the chaos of the unstructured into the clarity of the structured
 - 🧬 Well-versed in **Biomedical**, **Biotechnological**, and **Health** Sciences
 - 👯 Open to collaborating on **Data Science** projects in **Aerospace, Agro, Automotive, Biomedical, Biotech, Ecology, Health, Meteorology** or anything fun and interesting
 - 📫 Reach me at **DaLuSt1997@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/daansteur/)
+- ⚡ **Fun fact:** I measure productivity in joules — potential energy becomes kinetic when the dataset loads
+
+---
+
+## 🔭 Currently
+
+- 🏛️ Working as a **Data Architect** in the **Mobility sector** for the **Government**
+- 🌱 Continuously bridging the gap between raw data and actionable insight
+
+---
+
+## 🏷️ At a Glance
+
+![MSc](https://img.shields.io/badge/MSc-Data%20Science%20for%20Life%20Sciences-4584b6?style=for-the-badge)
+![Role](https://img.shields.io/badge/Data%20Architect-Mobility%20%7C%20Government-F57C00?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Data%20%26%20Life%20Sciences-2ea44f?style=for-the-badge)
 
 ---
 
@@ -66,6 +84,14 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=DaLuSt&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaLuSt/DaLuSt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaLuSt/DaLuSt/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/DaLuSt/DaLuSt/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### ✍️ Random Dev Quote
 
