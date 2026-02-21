@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=DaLuSt&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Daan Steur</h1>
-<h2 align="center">MSc Student in Data Science for Life Sciences</h2>
+<h2 align="center">MSc in Data Science for Life Sciences</h2>
 <h3 align="center">"Live life to the fullest of your own potential kinetic energy"</h3>
 
 ---
@@ -9,6 +9,7 @@
 ## 🙋 About Me
 
 - 🧑‍💻 **Data Scientist** passionate about improving the world through **data-driven solutions**
+- 🏗️ **Data Architect** — turning the chaos of the unstructured into the clarity of the structured
 - 🧬 Well-versed in **Biomedical**, **Biotechnological**, and **Health** Sciences
 - 👯 Open to collaborating on **Data Science** projects in **Aerospace, Agro, Automotive, Biomedical, Biotech, Ecology, Health, Meteorology** or anything fun and interesting
 - 📫 Reach me at **DaLuSt1997@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/daansteur/)
